@@ -1,0 +1,47 @@
+# Node.js dependencies
+node_modules/
+
+# Logs
+*.log
+
+# Environment files
+.env
+.env.local
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# IDEs
+.vscode/
+.idea/
+*.suo
+*.user
+
+# Build output
+dist/
+build/
+*.class
+*.jar
+
+# Compiled code
+*.exe
+*.dll
+*.so
+*.dylib
+
+# Database files
+*.sqlite
+*.db
+
+# Secret files
+*.key
+*.pem
+
+# Ruby
+*.gem
+*.rbc
+
+# Python
+__pycache__/
+*.pyc
